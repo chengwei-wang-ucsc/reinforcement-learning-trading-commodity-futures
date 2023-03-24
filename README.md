@@ -10,4 +10,4 @@ Thirdly, since futures contracts are contract-based, this means that one only li
 
 Finally, use the "Model Training(A2C).ipynb" to train a reinforcement learning agent and test it using the "Model Testing.ipynb" to test the saved model file in "best_models" folder.
 
-###This Implementation is only a basic demonstration of what reinforcement agents can do##
+###This Implementation is only a basic demonstration of what reinforcement agents can do###
